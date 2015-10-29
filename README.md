@@ -16,4 +16,4 @@ On one tab, create some draggable elements (http://jqueryui.com/draggable/)
 
 On another tab, create a datepicker, and use the result (i.e. "05/11/2013") 
 
-check it out here  speaker-bird-63075.bitballoon.com
+check it out here   http://speaker-bird-63075.bitballoon.com
